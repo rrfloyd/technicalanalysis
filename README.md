@@ -1,9 +1,5 @@
-# kumadatascience
-## march 16, 2017
+#Dry Freight Derivatives
+##technical analysis
 
-Changing the file...
-
-adding another change...
-
-and another one...
+This project has been set up for to experiment with designing a better system of conducting technical analysis in the dry FFA markets. 
 
